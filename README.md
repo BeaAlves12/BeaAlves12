@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BeaAlves12
-- 👀 I’m interested in JS, React, Golang e PHP
+
 
 
 <!---
